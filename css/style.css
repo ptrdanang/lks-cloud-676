@@ -96,7 +96,7 @@ nav a.active{
     margin-top: 15px;
     border-radius: 4px;
     display: inline-block;
-    text-align: center;
+    text-align: left;
 }
 
 .profile-card{border-left: 5px solid #0ff007;}
