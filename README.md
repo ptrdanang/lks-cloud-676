@@ -10,7 +10,7 @@ Aplikasi ini adalah sebuah website aplikasi statis yang dibangun untuk memenuhi 
 * **Responsive Design**: Tampilan yang optimal di berbagai perangkat.
 
 ## 📂 Struktur Folder
-Penyusunan file dilakukan secara terorganisir untuk memenuhi standar kualifikasi lomba:
+Penyusunan file dilakukan secara terorganisir untuk memenuhi standar kerapian kualifikasi lomba:
 
 ![Tampilan Struktur Folder](assets/z.png)
 
